@@ -7,9 +7,9 @@ Designed to enhance presentation and speech delivery, this teleprompter goes bey
 🧑‍💻 Authors
 This project was developed collaboratively by:
 
-Ritesh Bagde
+Ritesh Bagde (M.Sc physics - pursuing, RTMNU Nagpur)
 
-Sanket Nandagawali
+Sanket Nandagawali (M.Sc physics - pursuing, RTMNU Nagpur)
 
 We are fellow classmates passionate about leveraging Python for practical desktop applications.
 
